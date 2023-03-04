@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/online-shop/static/css/main.b5d9cfff.css",
+    "main.js": "/online-shop/static/js/main.f7aae6bd.js",
+    "static/js/188.c80797d3.chunk.js": "/online-shop/static/js/188.c80797d3.chunk.js",
+    "static/js/622.edfef382.chunk.js": "/online-shop/static/js/622.edfef382.chunk.js",
+    "static/js/664.eb2799ce.chunk.js": "/online-shop/static/js/664.eb2799ce.chunk.js",
+    "static/js/382.456b1acf.chunk.js": "/online-shop/static/js/382.456b1acf.chunk.js",
+    "static/js/934.30697411.chunk.js": "/online-shop/static/js/934.30697411.chunk.js",
+    "static/js/497.9560d91c.chunk.js": "/online-shop/static/js/497.9560d91c.chunk.js",
+    "static/js/255.4b981d52.chunk.js": "/online-shop/static/js/255.4b981d52.chunk.js",
+    "static/js/425.cd4536e7.chunk.js": "/online-shop/static/js/425.cd4536e7.chunk.js",
+    "static/js/53.6561047e.chunk.js": "/online-shop/static/js/53.6561047e.chunk.js",
+    "static/media/Error404.svg": "/online-shop/static/media/Error404.123b05baf917f8640c4226885615632b.svg",
+    "index.html": "/online-shop/index.html",
+    "main.b5d9cfff.css.map": "/online-shop/static/css/main.b5d9cfff.css.map",
+    "main.f7aae6bd.js.map": "/online-shop/static/js/main.f7aae6bd.js.map",
+    "188.c80797d3.chunk.js.map": "/online-shop/static/js/188.c80797d3.chunk.js.map",
+    "622.edfef382.chunk.js.map": "/online-shop/static/js/622.edfef382.chunk.js.map",
+    "664.eb2799ce.chunk.js.map": "/online-shop/static/js/664.eb2799ce.chunk.js.map",
+    "382.456b1acf.chunk.js.map": "/online-shop/static/js/382.456b1acf.chunk.js.map",
+    "934.30697411.chunk.js.map": "/online-shop/static/js/934.30697411.chunk.js.map",
+    "497.9560d91c.chunk.js.map": "/online-shop/static/js/497.9560d91c.chunk.js.map",
+    "255.4b981d52.chunk.js.map": "/online-shop/static/js/255.4b981d52.chunk.js.map",
+    "425.cd4536e7.chunk.js.map": "/online-shop/static/js/425.cd4536e7.chunk.js.map",
+    "53.6561047e.chunk.js.map": "/online-shop/static/js/53.6561047e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5d9cfff.css",
+    "static/js/main.f7aae6bd.js"
+  ]
+}

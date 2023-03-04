@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkonline_shop=self.webpackChunkonline_shop||[]).push([[425],{7425:function(t,a,h){h.d(a,{Opj:function(){return e}});var n=h(9983);function e(t){return(0,n.w_)({tag:"svg",attr:{viewBox:"0 0 24 24"},child:[{tag:"g",attr:{},child:[{tag:"path",attr:{fill:"none",d:"M0 0h24v24H0z"}},{tag:"path",attr:{d:"M5 22a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v3h-2V4H6v16h12v-2h2v3a1 1 0 0 1-1 1H5zm13-6v-3h-7v-2h7V8l5 4-5 4z"}}]}]})(t)}}}]);
+//# sourceMappingURL=425.cd4536e7.chunk.js.map
